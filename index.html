@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hacker News Daily — Interactive Newspaper</title>
+  <meta name="description" content="An interactive, flippable newspaper with the most relevant Hacker News stories." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="top-nav">
+    <div class="meta">
+      <span id="edition-date"></span>
+      <span class="dot">•</span>
+      <label for="feedSelect" class="sr-only">Feed</label>
+      <select id="feedSelect" class="feed-select" aria-label="Select Hacker News feed">
+        <option value="topstories" selected>Top</option>
+        <option value="beststories">Best</option>
+      </select>
+    </div>
+    <nav class="controls" aria-label="Keyboard navigation hint">
+      <span class="indicator">Use Arrows or h/j/k/l to Navigate • Enter to Open</span>
+    </nav>
+  </div>
+
+  <main>
+    <div class="feed-wrapper">
+      <div id="feed" class="news-feed" aria-live="polite">
+        <!-- Articles will be dynamically injected here -->
+      </div>
+    </div>
+    <div class="loading" id="loading">Loading top stories…</div>
+    <div class="error" id="error" hidden>Unable to load stories. Please try again later.</div>
+  </main>
+
+  <footer class="footer">
+    <p>
+      Source: <a href="https://news.ycombinator.com" rel="noopener" target="_blank">Hacker News</a> — public APIs.<br>
+      This is an unofficial project.
+    </p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+
+</html>
