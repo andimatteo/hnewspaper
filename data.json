@@ -1,15 +1,17 @@
 [
   {
     "by": "mpweiher",
-    "descendants": 3,
+    "descendants": 7,
     "id": 47295537,
     "kids": [
+      47296413,
       47295884,
       47295762,
       47295568,
-      47295621
+      47295621,
+      47296285
     ],
-    "score": 42,
+    "score": 53,
     "time": 1772957510,
     "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
     "type": "story",
@@ -18,25 +20,56 @@
     "summary": "Help | Advanced Search arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and use..."
   },
   {
+    "by": "vinhnx",
+    "descendants": 0,
+    "id": 47295837,
+    "score": 17,
+    "time": 1772961894,
+    "title": "Notes on Writing WASM",
+    "type": "story",
+    "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+    "image": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm-og-image.webp",
+    "summary": "Search  \u276f   \u276f  Created 27 Dec 2025Updated 27 Dec 202516 min read I\u2019ve been writing an increasing amount of Rust\u2011based Wasm over the past few years. The internet has many opinions about Wasm, and wasm-bindgen is \u2014 let\u2019s say \u2014 not universally beloved, but as I get more experience w..."
+  },
+  {
+    "by": "ohjeez",
+    "descendants": 4,
+    "id": 47249139,
+    "kids": [
+      47296391,
+      47296236,
+      47296119
+    ],
+    "score": 33,
+    "time": 1772638969,
+    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+    "type": "story",
+    "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+    "image": "https://www.rijksmuseum.nl/assets/b90d19e5-efd0-4fca-b717-95be8c403a6f?w=1200&h=630&fx=2845&fy=5186&c=84f25f45c28f65f19b492626067bae8d243656de852829122cf4b1f50d7abee6",
+    "summary": "The Rijksmuseum uses cookies. A cookie is a small text file that a website stores on your computer or mobile device when you visit our site. Would you like to know more? Read our cookie policy. \r\n            The museum of Rembrandt, Vermeer and Van Gogh\r\n           MAIN PARTNERS..."
+  },
+  {
     "by": "dkechag",
-    "descendants": 105,
+    "descendants": 114,
     "id": 47293119,
     "kids": [
       47293576,
       47294479,
+      47296408,
       47293421,
+      47296103,
       47293726,
       47293495,
       47293527,
       47295026,
-      47295633,
       47293511,
+      47295633,
       47293567,
       47294701,
+      47293565,
       47293665,
       47294519,
       47293770,
-      47293565,
       47294675,
       47294658,
       47293529,
@@ -46,7 +79,7 @@
       47293986,
       47293566
     ],
-    "score": 241,
+    "score": 252,
     "time": 1772930672,
     "title": "Cloud VM benchmarks 2026",
     "type": "story",
@@ -59,11 +92,11 @@
     "descendants": 4,
     "id": 47295279,
     "kids": [
-      47296066,
       47295841,
-      47296011
+      47296011,
+      47296066
     ],
-    "score": 23,
+    "score": 29,
     "text": "A DIY Newtonian reflector telescope with dobsonian mount. A fun to do hobby project taking us closer to the moon and beyond. A lot of plans ahead on how  to make it much better and portable but this was the first time me and my friend implemented or rather built a telescope.<p>Have a look at what all we have captured.",
     "time": 1772954175,
     "title": "Show HN: Curiosity \u2013 DIY 6\" Newtonian Reflector Telescope",
@@ -73,13 +106,40 @@
     "summary": "Madhav on Computer M & Swarup on Computer S. \nBoth, looking at their reddit feeds and getting awed by the pictures of Moon, Jupiter, Saturn, Orion Nebulae and what not, clicked by people all around the world. Us discussing, HOW MUCH DOES A DECENT TELESCOPE COST? \nWell, it does co..."
   },
   {
+    "by": "Curiositry",
+    "descendants": 56,
+    "id": 47292522,
+    "kids": [
+      47295692,
+      47294937,
+      47295836,
+      47294894,
+      47296002,
+      47295979,
+      47294044,
+      47295449,
+      47295623,
+      47296018,
+      47295706,
+      47295745,
+      47295675
+    ],
+    "score": 194,
+    "time": 1772926337,
+    "title": "How to run Qwen 3.5 locally",
+    "type": "story",
+    "url": "https://unsloth.ai/docs/models/qwen3.5",
+    "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2",
+    "summary": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device! Qwen3.5 is Alibaba\u2019s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2..."
+  },
+  {
     "by": "networked",
-    "descendants": 67,
+    "descendants": 80,
     "id": 47293415,
     "kids": [
       47295014,
-      47295551,
       47294433,
+      47295551,
       47295211,
       47294356,
       47294370,
@@ -90,79 +150,21 @@
       47295072,
       47295296
     ],
-    "score": 185,
+    "score": 197,
     "time": 1772933721,
     "title": "Warn about PyPy being unmaintained",
     "type": "story",
     "url": "https://github.com/astral-sh/uv/pull/17643",
-    "image": "https://opengraph.githubassets.com/9e5d2f3286ceb14ee4ac9b15c3bdc9405aef6b3aeaa7f7e602b9b2381119a994/astral-sh/uv/pull/17643",
+    "image": "https://opengraph.githubassets.com/4fbf75d08c8e1a24e5e574808da3306848a28a4b77db8a6801bac7a7f277b8b9/astral-sh/uv/pull/17643",
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There's no official..."
   },
   {
-    "by": "ohjeez",
-    "descendants": 0,
-    "id": 47249139,
-    "score": 17,
-    "time": 1772638969,
-    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-    "type": "story",
-    "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-    "image": "https://www.rijksmuseum.nl/assets/b90d19e5-efd0-4fca-b717-95be8c403a6f?w=1200&h=630&fx=2845&fy=5186&c=84f25f45c28f65f19b492626067bae8d243656de852829122cf4b1f50d7abee6",
-    "summary": "The Rijksmuseum uses cookies. A cookie is a small text file that a website stores on your computer or mobile device when you visit our site. Would you like to know more? Read our cookie policy. \r\n            The museum of Rembrandt, Vermeer and Van Gogh\r\n           MAIN PARTNERS..."
-  },
-  {
-    "by": "kqr",
-    "descendants": 7,
-    "id": 47245061,
-    "kids": [
-      47296032,
-      47295581,
-      47295742,
-      47295771,
-      47295615,
-      47295798
-    ],
-    "score": 37,
-    "time": 1772616253,
-    "title": "From RGB to L*a*b* color space (2024)",
-    "type": "story",
-    "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
-    "image": "https://kaizoudou.com/wp-content/uploads/2024/07/image-2.png",
-    "summary": "Let\u2019s talk about Image Quality and Camera Optics  \u2022 How do we assess color accuracy between different images? Unfortunately, the commonly used RGB color space is not perceptually uniform, which means that equal changes in RGB values do not correspond to equal perceived changes in..."
-  },
-  {
-    "by": "Curiositry",
-    "descendants": 47,
-    "id": 47292522,
-    "kids": [
-      47295692,
-      47294937,
-      47295836,
-      47296002,
-      47295979,
-      47296018,
-      47294894,
-      47294044,
-      47295449,
-      47295623,
-      47295706,
-      47295745,
-      47295675
-    ],
-    "score": 166,
-    "time": 1772926337,
-    "title": "How to run Qwen 3.5 locally",
-    "type": "story",
-    "url": "https://unsloth.ai/docs/models/qwen3.5",
-    "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2",
-    "summary": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device! Qwen3.5 is Alibaba\u2019s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2..."
-  },
-  {
     "by": "aebtebeten",
-    "descendants": 35,
+    "descendants": 36,
     "id": 47291292,
     "kids": [
       47291555,
+      47296181,
       47293255,
       47291427,
       47291591,
@@ -182,7 +184,7 @@
       47291594,
       47292092
     ],
-    "score": 282,
+    "score": 287,
     "time": 1772916231,
     "title": "CasNum",
     "type": "story",
@@ -191,45 +193,55 @@
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           CasNum (Compass and straightedge Number) is a library that implements\narbitrary precision arithmetic using\ncompass and straightedge..."
   },
   {
-    "by": "vinhnx",
-    "descendants": 0,
-    "id": 47295837,
-    "score": 4,
-    "time": 1772961894,
-    "title": "Notes on Writing WASM",
+    "by": "kqr",
+    "descendants": 12,
+    "id": 47245061,
+    "kids": [
+      47295581,
+      47295771,
+      47296032,
+      47295742,
+      47295615,
+      47295798
+    ],
+    "score": 42,
+    "time": 1772616253,
+    "title": "From RGB to L*a*b* color space (2024)",
     "type": "story",
-    "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-    "image": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm-og-image.webp",
-    "summary": "Search  \u276f   \u276f  Created 27 Dec 2025Updated 27 Dec 202516 min read I\u2019ve been writing an increasing amount of Rust\u2011based Wasm over the past few years. The internet has many opinions about Wasm, and wasm-bindgen is \u2014 let\u2019s say \u2014 not universally beloved, but as I get more experience w..."
+    "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+    "image": "https://kaizoudou.com/wp-content/uploads/2024/07/image-2.png",
+    "summary": "Let\u2019s talk about Image Quality and Camera Optics  \u2022 How do we assess color accuracy between different images? Unfortunately, the commonly used RGB color space is not perceptually uniform, which means that equal changes in RGB values do not correspond to equal perceived changes in..."
   },
   {
-    "by": "azhenley",
-    "descendants": 47,
-    "id": 47293682,
+    "by": "pabs3",
+    "descendants": 1,
+    "id": 47294924,
     "kids": [
-      47295439,
-      47295698,
-      47294357,
-      47294560,
-      47295301,
-      47294621,
-      47295666,
-      47295558,
-      47295086,
-      47296046,
-      47295031
+      47296166
     ],
-    "score": 80,
-    "time": 1772936162,
-    "title": "MonoGame: A .NET framework for making cross-platform games",
+    "score": 21,
+    "time": 1772949686,
+    "title": "Sem \u2013 Semantic version control. Entity-level diffs on top of Git",
     "type": "story",
-    "url": "https://github.com/MonoGame/MonoGame",
-    "image": "https://opengraph.githubassets.com/b2b0d2fcd95186b17c52110d99582dc535bb1b704d45f17b0f19db56b60f4b9d/MonoGame/MonoGame",
-    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            There was an error while loading. Please reload this page.\n There was an error while loading. Please reload this page. \n\n One fram..."
+    "url": "https://github.com/ataraxy-labs/sem",
+    "image": "https://opengraph.githubassets.com/4e2f012899cd9309956dc64af33e7cac99fa9c12a4cf667a8c15d3701c25576a/Ataraxy-Labs/sem",
+    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           Semantic version control. Entity-level diffs on top of Git. Instead of line 43 changed, sem tells you function validateToken was ad..."
+  },
+  {
+    "by": "keyle",
+    "descendants": 0,
+    "id": 47239955,
+    "score": 12,
+    "time": 1772576694,
+    "title": "The Lobster Programming Language",
+    "type": "story",
+    "url": "https://strlen.com/lobster/",
+    "image": null,
+    "summary": "Lobster is a programming language that tries to combine the advantages of static typing and compile-time memory management with a very lightweight, friendly and terse syntax, by doing most of the heavy lifting for you. While it is a general purpose language, its current implemen..."
   },
   {
     "by": "zacwest",
-    "descendants": 202,
+    "descendants": 210,
     "id": 47289311,
     "kids": [
       47289874,
@@ -271,7 +283,7 @@
       47290109,
       47290086
     ],
-    "score": 302,
+    "score": 310,
     "time": 1772902518,
     "title": "A decade of Docker containers",
     "type": "story",
@@ -280,54 +292,16 @@
     "summary": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. Y..."
   },
   {
-    "by": "thecloudlet",
-    "descendants": 3,
-    "id": 47259961,
-    "kids": [
-      47296048,
-      47295231,
-      47295030
-    ],
-    "score": 72,
-    "time": 1772706195,
-    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-    "type": "story",
-    "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-    "image": null,
-    "summary": "In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post: Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor In..."
-  },
-  {
-    "by": "theblazehen",
-    "descendants": 11,
-    "id": 47271988,
-    "kids": [
-      47291245,
-      47291420,
-      47291256,
-      47293290,
-      47292870,
-      47293046,
-      47292376
-    ],
-    "score": 206,
-    "time": 1772781468,
-    "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-    "type": "story",
-    "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-    "image": null,
-    "summary": "I've recently been contributing to the Pybricks project, a community-run port of MicroPython to Lego Mindstorms hardware. As part of that, I obtained a used Lego NXT which just so happened to still be running the original version 1.01 firmware from when it launched in 2006. I wan..."
-  },
-  {
     "by": "ranit",
-    "descendants": 157,
+    "descendants": 160,
     "id": 47287344,
     "kids": [
       47293219,
       47288995,
       47290047,
       47288562,
-      47289712,
       47293419,
+      47289712,
       47288953,
       47295205,
       47288548,
@@ -345,7 +319,7 @@
       47289585,
       47288916
     ],
-    "score": 291,
+    "score": 300,
     "time": 1772889160,
     "title": "Yoghurt delivery women combatting loneliness in Japan",
     "type": "story",
@@ -354,16 +328,61 @@
     "summary": "As loneliness deepens in one of the world's fastest-ageing nations, a network of women delivering probiotic milk drinks has become a vital source of routine, connection and care. A woman in a neat navy suit and powder-blue shirt cycles purposefully down a quiet residential street..."
   },
   {
+    "by": "theblazehen",
+    "descendants": 12,
+    "id": 47271988,
+    "kids": [
+      47291245,
+      47291420,
+      47291256,
+      47293290,
+      47292870,
+      47293046,
+      47292376
+    ],
+    "score": 211,
+    "time": 1772781468,
+    "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+    "type": "story",
+    "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+    "image": null,
+    "summary": "I've recently been contributing to the Pybricks project, a community-run port of MicroPython to Lego Mindstorms hardware. As part of that, I obtained a used Lego NXT which just so happened to still be running the original version 1.01 firmware from when it launched in 2006. I wan..."
+  },
+  {
+    "by": "thecloudlet",
+    "descendants": 4,
+    "id": 47259961,
+    "kids": [
+      47296048,
+      47295231,
+      47295030
+    ],
+    "score": 76,
+    "time": 1772706195,
+    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+    "type": "story",
+    "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+    "image": null,
+    "summary": "In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post: Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor In..."
+  },
+  {
     "by": "birdculture",
-    "descendants": 7,
+    "descendants": 37,
     "id": 47295670,
     "kids": [
-      47296083,
+      47296316,
+      47296262,
       47295903,
-      47296051,
-      47296031
+      47296210,
+      47296235,
+      47296270,
+      47296199,
+      47296308,
+      47296031,
+      47296083,
+      47296051
     ],
-    "score": 27,
+    "score": 42,
     "time": 1772959409,
     "title": "I'm Not Consulting an LLM",
     "type": "story",
@@ -372,47 +391,20 @@
     "summary": "Here's my problem with using GPT, or an LLM generally for anything1, even if the LLM would do it 'effectively', I will speak specifically of looking for information as an example, and let's assume the following scenario; ever used the \"I'm feeling Lucky\" button in Google? This bu..."
   },
   {
-    "by": "kilroy123",
-    "descendants": 38,
-    "id": 47247762,
-    "kids": [
-      47293681,
-      47295399,
-      47293822,
-      47293947,
-      47294681,
-      47294276,
-      47293516,
-      47293589,
-      47293900,
-      47293541,
-      47294214,
-      47295369,
-      47294284
-    ],
-    "score": 83,
-    "time": 1772634264,
-    "title": "Show HN: A weird thing that detects your pulse from the browser video",
-    "type": "story",
-    "url": "https://pulsefeedback.io/",
-    "image": "https://pulsefeedback.io/og-image.png",
-    "summary": "This page responds to your pulse through your camera. No one can see you. Only your heart rate is shared."
-  },
-  {
     "by": "simonpure",
     "descendants": 33,
     "id": 47291123,
     "kids": [
       47296084,
-      47296047,
       47293276,
       47293823,
       47293008,
       47293881,
       47295271,
-      47295642,
       47292267,
+      47295642,
       47293375,
+      47296047,
       47293957,
       47292342,
       47292742,
@@ -422,17 +414,104 @@
       47292994,
       47294120
     ],
-    "score": 120,
+    "score": 124,
     "time": 1772914965,
     "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
     "type": "story",
     "url": "https://github.com/karpathy/autoresearch",
-    "image": "https://opengraph.githubassets.com/124d3b205bc980a53439e5794f55bf1e7360346f3cb0303ece9724519e589f16/karpathy/autoresearch",
+    "image": "https://opengraph.githubassets.com/7bc9112a58a1c7a022ec73f9f704f2bdb555690afa52b9ff94cffc0ab252437b/karpathy/autoresearch",
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing o..."
   },
   {
+    "by": "jprs",
+    "descendants": 39,
+    "id": 47290198,
+    "kids": [
+      47294840,
+      47296135,
+      47295005,
+      47293403,
+      47295098,
+      47295945,
+      47295434,
+      47294680,
+      47295359,
+      47292823
+    ],
+    "score": 130,
+    "time": 1772908325,
+    "title": "The surprising whimsy of the Time Zone Database",
+    "type": "story",
+    "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+    "image": "https://muddy.jprs.me/",
+    "summary": "Links + notes: tech & life Time zones are hard. As a well-known Computerphile video so eloquently puts it: What you learn after dealing with time zones, is that what you do is you put away your code, you don\u2019t try and write anything to deal with this. You look at the people who h..."
+  },
+  {
+    "by": "surprisetalk",
+    "descendants": 2,
+    "id": 47249685,
+    "kids": [
+      47249929,
+      47296149,
+      47296256
+    ],
+    "score": 13,
+    "time": 1772640983,
+    "title": "Digital Iris [video]",
+    "type": "story",
+    "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
+    "image": null,
+    "summary": ""
+  },
+  {
+    "by": "rfarley04",
+    "descendants": 15,
+    "id": 47247644,
+    "kids": [
+      47293156,
+      47295245,
+      47292310,
+      47291530,
+      47292184
+    ],
+    "score": 117,
+    "time": 1772633791,
+    "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+    "type": "story",
+    "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+    "image": "https://assets.buttondown.email/images/d74314eb-fcaf-42b2-9927-c01dbf847780.png?w=960&fit=max",
+    "summary": "This newsletter does not contain ads, sponsored posts, or affiliate links. Open and click tracking are disabled. And there is no paid upgrade or AI generated content. Enjoy! The idea of robots literally eating your precious and portable files must have been far more terrifying th..."
+  },
+  {
+    "by": "azhenley",
+    "descendants": 57,
+    "id": 47293682,
+    "kids": [
+      47296372,
+      47295439,
+      47294357,
+      47295698,
+      47294560,
+      47296385,
+      47295301,
+      47294621,
+      47295666,
+      47295086,
+      47295558,
+      47295031,
+      47296046
+    ],
+    "score": 85,
+    "time": 1772936162,
+    "title": "MonoGame: A .NET framework for making cross-platform games",
+    "type": "story",
+    "url": "https://github.com/MonoGame/MonoGame",
+    "image": "https://opengraph.githubassets.com/58e3263660dc2fdbd99b38178321a3e482faa25192ff54e9f49a79e62bbcacaf/MonoGame/MonoGame",
+    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            There was an error while loading. Please reload this page.\n There was an error while loading. Please reload this page. \n\n One fram..."
+  },
+  {
     "by": "jandeboevrie",
-    "descendants": 21,
+    "descendants": 26,
     "id": 47274768,
     "kids": [
       47294829,
@@ -442,102 +521,17 @@
       47295677,
       47294431,
       47295546,
+      47296105,
       47294655,
       47294697
     ],
-    "score": 34,
+    "score": 35,
     "time": 1772804416,
     "title": "Best performance of a C++ singleton",
     "type": "story",
     "url": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
     "image": "https://andreasfertig.com/img/2026-03-03-best-performance-of-a-singleton-li.png",
     "summary": "In my Januray post, I focused on implementing a singleton correctly. This time I want to add performance into the mix and show you the best way to implement your singleton... or give you guidance to pick your best way. I'm using a display manager as an example, like GDM, LightDM,..."
-  },
-  {
-    "by": "surprisetalk",
-    "descendants": 1,
-    "id": 47249685,
-    "kids": [
-      47249929
-    ],
-    "score": 9,
-    "time": 1772640983,
-    "title": "Digital Iris [video]",
-    "type": "story",
-    "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
-    "image": null,
-    "summary": ""
-  },
-  {
-    "by": "jprs",
-    "descendants": 36,
-    "id": 47290198,
-    "kids": [
-      47294840,
-      47295005,
-      47295945,
-      47293403,
-      47295098,
-      47295434,
-      47294680,
-      47295359,
-      47292823
-    ],
-    "score": 124,
-    "time": 1772908325,
-    "title": "The surprising whimsy of the Time Zone Database",
-    "type": "story",
-    "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
-    "image": "https://muddy.jprs.me/",
-    "summary": "Links + notes: tech & life Time zones are hard. As a well-known Computerphile video so eloquently puts it: What you learn after dealing with time zones, is that what you do is you put away your code, you don\u2019t try and write anything to deal with this. You look at the people who h..."
-  },
-  {
-    "by": "rfarley04",
-    "descendants": 13,
-    "id": 47247644,
-    "kids": [
-      47293156,
-      47295245,
-      47292310,
-      47291530,
-      47292184
-    ],
-    "score": 111,
-    "time": 1772633791,
-    "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-    "type": "story",
-    "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
-    "image": "https://assets.buttondown.email/images/d74314eb-fcaf-42b2-9927-c01dbf847780.png?w=960&fit=max",
-    "summary": "This newsletter does not contain ads, sponsored posts, or affiliate links. Open and click tracking are disabled. And there is no paid upgrade or AI generated content. Enjoy! The idea of robots literally eating your precious and portable files must have been far more terrifying th..."
-  },
-  {
-    "by": "mooreds",
-    "descendants": 4,
-    "id": 47261858,
-    "kids": [
-      47295659,
-      47295520,
-      47295167
-    ],
-    "score": 31,
-    "time": 1772720746,
-    "title": "Ten years of deploying to production",
-    "type": "story",
-    "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
-    "image": null,
-    "summary": "Mar 4, 2026\n      \n      \u2022 Brandon Vincent Back in 2018, where I worked there was an operations team. \u201cOps\u201d, we called them.\nIn that decade, this company was behind the curve, but not far from typical.\nWe were just starting to think about AWS. At the tail end of my time there, w..."
-  },
-  {
-    "by": "pabs3",
-    "descendants": 0,
-    "id": 47294924,
-    "score": 7,
-    "time": 1772949686,
-    "title": "Sem \u2013 Semantic version control. Entity-level diffs on top of Git",
-    "type": "story",
-    "url": "https://github.com/ataraxy-labs/sem",
-    "image": "https://opengraph.githubassets.com/0063c36549299c8653b3337ef412ddc8453ae456033b4984bdeeec833eee5fbc/Ataraxy-Labs/sem",
-    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           Semantic version control. Entity-level diffs on top of Git. Instead of line 43 changed, sem tells you function validateToken was ad..."
   },
   {
     "by": "marc__1",
@@ -557,12 +551,39 @@
       47289106,
       47291299
     ],
-    "score": 212,
+    "score": 214,
     "time": 1772897616,
     "title": "FLASH radiotherapy's bold approach to cancer treatment",
     "type": "story",
     "url": "https://spectrum.ieee.org/flash-radiotherapy",
     "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65111419&width=1200&height=600&coordinates=0%2C261%2C0%2C261",
     "summary": "FLASH therapy uses a precise burst of ultrahigh-power radiation to kill tumors and spare healthy tissue The French company Theryq is collaborating with the particle physics research facility CERN to develop FLASH radiation therapy. Theryq's FLASHKNiFE system targets superficial t..."
+  },
+  {
+    "by": "kilroy123",
+    "descendants": 40,
+    "id": 47247762,
+    "kids": [
+      47293681,
+      47295399,
+      47293822,
+      47293947,
+      47294681,
+      47294276,
+      47293516,
+      47293589,
+      47293900,
+      47293541,
+      47294214,
+      47295369,
+      47294284
+    ],
+    "score": 88,
+    "time": 1772634264,
+    "title": "Show HN: A weird thing that detects your pulse from the browser video",
+    "type": "story",
+    "url": "https://pulsefeedback.io/",
+    "image": "https://pulsefeedback.io/og-image.png",
+    "summary": "This page responds to your pulse through your camera. No one can see you. Only your heart rate is shared."
   }
 ]
