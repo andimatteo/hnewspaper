@@ -1,14 +1,15 @@
 [
   {
     "by": "mpweiher",
-    "descendants": 2,
+    "descendants": 3,
     "id": 47295537,
     "kids": [
+      47295884,
       47295762,
       47295568,
       47295621
     ],
-    "score": 23,
+    "score": 42,
     "time": 1772957510,
     "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
     "type": "story",
@@ -18,34 +19,34 @@
   },
   {
     "by": "dkechag",
-    "descendants": 99,
+    "descendants": 105,
     "id": 47293119,
     "kids": [
       47293576,
       47294479,
       47293421,
-      47295633,
       47293726,
-      47293527,
-      47293511,
       47293495,
+      47293527,
       47295026,
-      47294701,
+      47295633,
+      47293511,
       47293567,
+      47294701,
       47293665,
+      47294519,
       47293770,
       47293565,
       47294675,
       47294658,
-      47294519,
       47293529,
       47293496,
       47295607,
       47293627,
-      47293566,
-      47293986
+      47293986,
+      47293566
     ],
-    "score": 217,
+    "score": 241,
     "time": 1772930672,
     "title": "Cloud VM benchmarks 2026",
     "type": "story",
@@ -54,36 +55,15 @@
     "summary": "Published: Feb 27, 2026 on dev.to by Dimitrios Kechagias #aws #googlecloud #cloud #devops Time for the (not exactly) yearly cloud compute VM comparison. I started testing back in October 2025, but the benchmarking scope was increased, not just due to more VM families tested (44),..."
   },
   {
-    "by": "networked",
-    "descendants": 51,
-    "id": 47293415,
-    "kids": [
-      47295014,
-      47295551,
-      47295211,
-      47294433,
-      47294356,
-      47294370,
-      47295582,
-      47295226,
-      47294608,
-      47295072,
-      47294765,
-      47295296
-    ],
-    "score": 168,
-    "time": 1772933721,
-    "title": "\"Warn about PyPy being unmaintained\"",
-    "type": "story",
-    "url": "https://github.com/astral-sh/uv/pull/17643",
-    "image": "https://opengraph.githubassets.com/9e5d2f3286ceb14ee4ac9b15c3bdc9405aef6b3aeaa7f7e602b9b2381119a994/astral-sh/uv/pull/17643",
-    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There's no official..."
-  },
-  {
     "by": "big_Brain69",
-    "descendants": 0,
+    "descendants": 4,
     "id": 47295279,
-    "score": 13,
+    "kids": [
+      47296066,
+      47295841,
+      47296011
+    ],
+    "score": 23,
     "text": "A DIY Newtonian reflector telescope with dobsonian mount. A fun to do hobby project taking us closer to the moon and beyond. A lot of plans ahead on how  to make it much better and portable but this was the first time me and my friend implemented or rather built a telescope.<p>Have a look at what all we have captured.",
     "time": 1772954175,
     "title": "Show HN: Curiosity \u2013 DIY 6\" Newtonian Reflector Telescope",
@@ -93,17 +73,56 @@
     "summary": "Madhav on Computer M & Swarup on Computer S. \nBoth, looking at their reddit feeds and getting awed by the pictures of Moon, Jupiter, Saturn, Orion Nebulae and what not, clicked by people all around the world. Us discussing, HOW MUCH DOES A DECENT TELESCOPE COST? \nWell, it does co..."
   },
   {
+    "by": "networked",
+    "descendants": 67,
+    "id": 47293415,
+    "kids": [
+      47295014,
+      47295551,
+      47294433,
+      47295211,
+      47294356,
+      47294370,
+      47295226,
+      47295582,
+      47294608,
+      47294765,
+      47295072,
+      47295296
+    ],
+    "score": 185,
+    "time": 1772933721,
+    "title": "Warn about PyPy being unmaintained",
+    "type": "story",
+    "url": "https://github.com/astral-sh/uv/pull/17643",
+    "image": "https://opengraph.githubassets.com/9e5d2f3286ceb14ee4ac9b15c3bdc9405aef6b3aeaa7f7e602b9b2381119a994/astral-sh/uv/pull/17643",
+    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There's no official..."
+  },
+  {
+    "by": "ohjeez",
+    "descendants": 0,
+    "id": 47249139,
+    "score": 17,
+    "time": 1772638969,
+    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+    "type": "story",
+    "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+    "image": "https://www.rijksmuseum.nl/assets/b90d19e5-efd0-4fca-b717-95be8c403a6f?w=1200&h=630&fx=2845&fy=5186&c=84f25f45c28f65f19b492626067bae8d243656de852829122cf4b1f50d7abee6",
+    "summary": "The Rijksmuseum uses cookies. A cookie is a small text file that a website stores on your computer or mobile device when you visit our site. Would you like to know more? Read our cookie policy. \r\n            The museum of Rembrandt, Vermeer and Van Gogh\r\n           MAIN PARTNERS..."
+  },
+  {
     "by": "kqr",
-    "descendants": 5,
+    "descendants": 7,
     "id": 47245061,
     "kids": [
+      47296032,
       47295581,
-      47295771,
       47295742,
-      47295798,
-      47295615
+      47295771,
+      47295615,
+      47295798
     ],
-    "score": 27,
+    "score": 37,
     "time": 1772616253,
     "title": "From RGB to L*a*b* color space (2024)",
     "type": "story",
@@ -112,8 +131,35 @@
     "summary": "Let\u2019s talk about Image Quality and Camera Optics  \u2022 How do we assess color accuracy between different images? Unfortunately, the commonly used RGB color space is not perceptually uniform, which means that equal changes in RGB values do not correspond to equal perceived changes in..."
   },
   {
+    "by": "Curiositry",
+    "descendants": 47,
+    "id": 47292522,
+    "kids": [
+      47295692,
+      47294937,
+      47295836,
+      47296002,
+      47295979,
+      47296018,
+      47294894,
+      47294044,
+      47295449,
+      47295623,
+      47295706,
+      47295745,
+      47295675
+    ],
+    "score": 166,
+    "time": 1772926337,
+    "title": "How to run Qwen 3.5 locally",
+    "type": "story",
+    "url": "https://unsloth.ai/docs/models/qwen3.5",
+    "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2",
+    "summary": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device! Qwen3.5 is Alibaba\u2019s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2..."
+  },
+  {
     "by": "aebtebeten",
-    "descendants": 36,
+    "descendants": 35,
     "id": 47291292,
     "kids": [
       47291555,
@@ -136,7 +182,7 @@
       47291594,
       47292092
     ],
-    "score": 276,
+    "score": 282,
     "time": 1772916231,
     "title": "CasNum",
     "type": "story",
@@ -145,91 +191,62 @@
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           CasNum (Compass and straightedge Number) is a library that implements\narbitrary precision arithmetic using\ncompass and straightedge..."
   },
   {
+    "by": "vinhnx",
+    "descendants": 0,
+    "id": 47295837,
+    "score": 4,
+    "time": 1772961894,
+    "title": "Notes on Writing WASM",
+    "type": "story",
+    "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+    "image": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm-og-image.webp",
+    "summary": "Search  \u276f   \u276f  Created 27 Dec 2025Updated 27 Dec 202516 min read I\u2019ve been writing an increasing amount of Rust\u2011based Wasm over the past few years. The internet has many opinions about Wasm, and wasm-bindgen is \u2014 let\u2019s say \u2014 not universally beloved, but as I get more experience w..."
+  },
+  {
     "by": "azhenley",
-    "descendants": 40,
+    "descendants": 47,
     "id": 47293682,
     "kids": [
       47295439,
+      47295698,
       47294357,
       47294560,
-      47295698,
-      47295666,
       47295301,
       47294621,
+      47295666,
       47295558,
       47295086,
+      47296046,
       47295031
     ],
-    "score": 72,
+    "score": 80,
     "time": 1772936162,
     "title": "MonoGame: A .NET framework for making cross-platform games",
     "type": "story",
     "url": "https://github.com/MonoGame/MonoGame",
-    "image": "https://opengraph.githubassets.com/756a67ff0bc5e6b0303cf2918590dd3cbd4b089a68f7503daa9506bec82d44df/MonoGame/MonoGame",
+    "image": "https://opengraph.githubassets.com/b2b0d2fcd95186b17c52110d99582dc535bb1b704d45f17b0f19db56b60f4b9d/MonoGame/MonoGame",
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            There was an error while loading. Please reload this page.\n There was an error while loading. Please reload this page. \n\n One fram..."
   },
   {
-    "by": "Curiositry",
-    "descendants": 35,
-    "id": 47292522,
-    "kids": [
-      47295836,
-      47295692,
-      47294937,
-      47295706,
-      47294894,
-      47295449,
-      47294044,
-      47295745,
-      47295623,
-      47295675
-    ],
-    "score": 139,
-    "time": 1772926337,
-    "title": "How to run Qwen 3.5 locally",
-    "type": "story",
-    "url": "https://unsloth.ai/docs/models/qwen3.5",
-    "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=b1ca68fa&sv=2",
-    "summary": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device! Qwen3.5 is Alibaba\u2019s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2..."
-  },
-  {
-    "by": "thecloudlet",
-    "descendants": 1,
-    "id": 47259961,
-    "kids": [
-      47295231,
-      47295030
-    ],
-    "score": 70,
-    "time": 1772706195,
-    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-    "type": "story",
-    "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-    "image": null,
-    "summary": "In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post: Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor In..."
-  },
-  {
     "by": "zacwest",
-    "descendants": 203,
+    "descendants": 202,
     "id": 47289311,
     "kids": [
       47289874,
       47291440,
       47289537,
-      47295208,
       47289545,
       47291296,
       47289918,
       47292042,
       47289335,
       47289519,
-      47293975,
       47290569,
       47291596,
       47294851,
       47294123,
-      47294402,
       47292337,
+      47294402,
       47290765,
       47292215,
       47290506,
@@ -247,18 +264,37 @@
       47291351,
       47291172,
       47290292,
+      47295208,
+      47293975,
       47291031,
       47292098,
       47290109,
       47290086
     ],
-    "score": 295,
+    "score": 302,
     "time": 1772902518,
     "title": "A decade of Docker containers",
     "type": "story",
     "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
     "image": null,
     "summary": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. Y..."
+  },
+  {
+    "by": "thecloudlet",
+    "descendants": 3,
+    "id": 47259961,
+    "kids": [
+      47296048,
+      47295231,
+      47295030
+    ],
+    "score": 72,
+    "time": 1772706195,
+    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+    "type": "story",
+    "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+    "image": null,
+    "summary": "In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post: Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor In..."
   },
   {
     "by": "theblazehen",
@@ -273,7 +309,7 @@
       47293046,
       47292376
     ],
-    "score": 200,
+    "score": 206,
     "time": 1772781468,
     "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
     "type": "story",
@@ -283,7 +319,7 @@
   },
   {
     "by": "ranit",
-    "descendants": 154,
+    "descendants": 157,
     "id": 47287344,
     "kids": [
       47293219,
@@ -291,16 +327,16 @@
       47290047,
       47288562,
       47289712,
-      47295205,
       47293419,
       47288953,
+      47295205,
       47288548,
       47289422,
       47294684,
-      47295314,
+      47292301,
       47290723,
       47289173,
-      47292301,
+      47295314,
       47288462,
       47290069,
       47289074,
@@ -309,7 +345,7 @@
       47289585,
       47288916
     ],
-    "score": 283,
+    "score": 291,
     "time": 1772889160,
     "title": "Yoghurt delivery women combatting loneliness in Japan",
     "type": "story",
@@ -318,8 +354,26 @@
     "summary": "As loneliness deepens in one of the world's fastest-ageing nations, a network of women delivering probiotic milk drinks has become a vital source of routine, connection and care. A woman in a neat navy suit and powder-blue shirt cycles purposefully down a quiet residential street..."
   },
   {
+    "by": "birdculture",
+    "descendants": 7,
+    "id": 47295670,
+    "kids": [
+      47296083,
+      47295903,
+      47296051,
+      47296031
+    ],
+    "score": 27,
+    "time": 1772959409,
+    "title": "I'm Not Consulting an LLM",
+    "type": "story",
+    "url": "https://lr0.org/blog/p/gpt/",
+    "image": null,
+    "summary": "Here's my problem with using GPT, or an LLM generally for anything1, even if the LLM would do it 'effectively', I will speak specifically of looking for information as an example, and let's assume the following scenario; ever used the \"I'm feeling Lucky\" button in Google? This bu..."
+  },
+  {
     "by": "kilroy123",
-    "descendants": 37,
+    "descendants": 38,
     "id": 47247762,
     "kids": [
       47293681,
@@ -330,13 +384,13 @@
       47294276,
       47293516,
       47293589,
+      47293900,
       47293541,
       47294214,
-      47293900,
       47295369,
       47294284
     ],
-    "score": 74,
+    "score": 83,
     "time": 1772634264,
     "title": "Show HN: A weird thing that detects your pulse from the browser video",
     "type": "story",
@@ -346,15 +400,17 @@
   },
   {
     "by": "simonpure",
-    "descendants": 31,
+    "descendants": 33,
     "id": 47291123,
     "kids": [
+      47296084,
+      47296047,
       47293276,
       47293823,
-      47295642,
-      47295271,
       47293008,
       47293881,
+      47295271,
+      47295642,
       47292267,
       47293375,
       47293957,
@@ -366,52 +422,30 @@
       47292994,
       47294120
     ],
-    "score": 115,
+    "score": 120,
     "time": 1772914965,
     "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
     "type": "story",
     "url": "https://github.com/karpathy/autoresearch",
-    "image": "https://opengraph.githubassets.com/2e61c3c8c20f2403cae8cb56b5295c90ecdbc371c0b867bfd4536488a23b3e79/karpathy/autoresearch",
+    "image": "https://opengraph.githubassets.com/124d3b205bc980a53439e5794f55bf1e7360346f3cb0303ece9724519e589f16/karpathy/autoresearch",
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing o..."
   },
   {
-    "by": "jprs",
-    "descendants": 36,
-    "id": 47290198,
-    "kids": [
-      47294840,
-      47295005,
-      47293403,
-      47295434,
-      47295098,
-      47294680,
-      47295359,
-      47292823
-    ],
-    "score": 116,
-    "time": 1772908325,
-    "title": "The surprising whimsy of the Time Zone Database",
-    "type": "story",
-    "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
-    "image": "https://muddy.jprs.me/",
-    "summary": "Links + notes: tech & life Time zones are hard. As a well-known Computerphile video so eloquently puts it: What you learn after dealing with time zones, is that what you do is you put away your code, you don\u2019t try and write anything to deal with this. You look at the people who h..."
-  },
-  {
     "by": "jandeboevrie",
-    "descendants": 23,
+    "descendants": 21,
     "id": 47274768,
     "kids": [
       47294829,
       47295164,
-      47295677,
       47294806,
       47294445,
+      47295677,
       47294431,
       47295546,
       47294655,
       47294697
     ],
-    "score": 30,
+    "score": 34,
     "time": 1772804416,
     "title": "Best performance of a C++ singleton",
     "type": "story",
@@ -420,34 +454,55 @@
     "summary": "In my Januray post, I focused on implementing a singleton correctly. This time I want to add performance into the mix and show you the best way to implement your singleton... or give you guidance to pick your best way. I'm using a display manager as an example, like GDM, LightDM,..."
   },
   {
-    "by": "mooreds",
-    "descendants": 5,
-    "id": 47261858,
+    "by": "surprisetalk",
+    "descendants": 1,
+    "id": 47249685,
     "kids": [
-      47295659,
-      47295520,
-      47295167
+      47249929
     ],
-    "score": 27,
-    "time": 1772720746,
-    "title": "Ten years of deploying to production",
+    "score": 9,
+    "time": 1772640983,
+    "title": "Digital Iris [video]",
     "type": "story",
-    "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+    "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
     "image": null,
-    "summary": "Mar 4, 2026\n      \n      \u2022 Brandon Vincent Back in 2018, where I worked there was an operations team. \u201cOps\u201d, we called them.\nIn that decade, this company was behind the curve, but not far from typical.\nWe were just starting to think about AWS. At the tail end of my time there, w..."
+    "summary": ""
+  },
+  {
+    "by": "jprs",
+    "descendants": 36,
+    "id": 47290198,
+    "kids": [
+      47294840,
+      47295005,
+      47295945,
+      47293403,
+      47295098,
+      47295434,
+      47294680,
+      47295359,
+      47292823
+    ],
+    "score": 124,
+    "time": 1772908325,
+    "title": "The surprising whimsy of the Time Zone Database",
+    "type": "story",
+    "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+    "image": "https://muddy.jprs.me/",
+    "summary": "Links + notes: tech & life Time zones are hard. As a well-known Computerphile video so eloquently puts it: What you learn after dealing with time zones, is that what you do is you put away your code, you don\u2019t try and write anything to deal with this. You look at the people who h..."
   },
   {
     "by": "rfarley04",
     "descendants": 13,
     "id": 47247644,
     "kids": [
-      47295245,
       47293156,
+      47295245,
       47292310,
       47291530,
       47292184
     ],
-    "score": 108,
+    "score": 111,
     "time": 1772633791,
     "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
     "type": "story",
@@ -456,8 +511,37 @@
     "summary": "This newsletter does not contain ads, sponsored posts, or affiliate links. Open and click tracking are disabled. And there is no paid upgrade or AI generated content. Enjoy! The idea of robots literally eating your precious and portable files must have been far more terrifying th..."
   },
   {
+    "by": "mooreds",
+    "descendants": 4,
+    "id": 47261858,
+    "kids": [
+      47295659,
+      47295520,
+      47295167
+    ],
+    "score": 31,
+    "time": 1772720746,
+    "title": "Ten years of deploying to production",
+    "type": "story",
+    "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+    "image": null,
+    "summary": "Mar 4, 2026\n      \n      \u2022 Brandon Vincent Back in 2018, where I worked there was an operations team. \u201cOps\u201d, we called them.\nIn that decade, this company was behind the curve, but not far from typical.\nWe were just starting to think about AWS. At the tail end of my time there, w..."
+  },
+  {
+    "by": "pabs3",
+    "descendants": 0,
+    "id": 47294924,
+    "score": 7,
+    "time": 1772949686,
+    "title": "Sem \u2013 Semantic version control. Entity-level diffs on top of Git",
+    "type": "story",
+    "url": "https://github.com/ataraxy-labs/sem",
+    "image": "https://opengraph.githubassets.com/0063c36549299c8653b3337ef412ddc8453ae456033b4984bdeeec833eee5fbc/Ataraxy-Labs/sem",
+    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           Semantic version control. Entity-level diffs on top of Git. Instead of line 43 changed, sem tells you function validateToken was ad..."
+  },
+  {
     "by": "marc__1",
-    "descendants": 62,
+    "descendants": 65,
     "id": 47288533,
     "kids": [
       47289452,
@@ -473,97 +557,12 @@
       47289106,
       47291299
     ],
-    "score": 211,
+    "score": 212,
     "time": 1772897616,
     "title": "FLASH radiotherapy's bold approach to cancer treatment",
     "type": "story",
     "url": "https://spectrum.ieee.org/flash-radiotherapy",
     "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65111419&width=1200&height=600&coordinates=0%2C261%2C0%2C261",
     "summary": "FLASH therapy uses a precise burst of ultrahigh-power radiation to kill tumors and spare healthy tissue The French company Theryq is collaborating with the particle physics research facility CERN to develop FLASH radiation therapy. Theryq's FLASHKNiFE system targets superficial t..."
-  },
-  {
-    "by": "jstrieb",
-    "descendants": 15,
-    "id": 47250500,
-    "kids": [
-      47294279,
-      47292288,
-      47291348
-    ],
-    "score": 93,
-    "time": 1772643900,
-    "title": "macOS code injection for fun and no profit (2024)",
-    "type": "story",
-    "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
-    "image": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/media/fun.png",
-    "summary": "2024-07-20 I love Live++ by Molecular Matters, aka Stefan Reinalter. It's an exceptionally fantastic C/C++ hot-reload/live coding solution for Windows, Xbox, and PlayStation 5. If you do any kind of C/C++ development on these platforms, you absolutely owe it to yourself to get a..."
-  },
-  {
-    "by": "surprisetalk",
-    "descendants": 1,
-    "id": 47249685,
-    "kids": [
-      47249929
-    ],
-    "score": 3,
-    "time": 1772640983,
-    "title": "Digital Iris [video]",
-    "type": "story",
-    "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
-    "image": null,
-    "summary": ""
-  },
-  {
-    "by": "mleroy",
-    "descendants": 2,
-    "id": 47295708,
-    "kids": [
-      47295794,
-      47295709,
-      47295820
-    ],
-    "score": 5,
-    "time": 1772959939,
-    "title": "Llm9p: LLM as a Plan 9 file system",
-    "type": "story",
-    "url": "https://github.com/NERVsystems/llm9p",
-    "image": "https://opengraph.githubassets.com/1b67a66e970bb33099e362f2af3e51f4bf174663f675b42e7029a54c301faf07/NERVsystems/llm9p",
-    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           LLM access via the 9P filesystem protocol. llm9p enables users, scripts, and AI agents to interact with Large Language Models throu..."
-  },
-  {
-    "by": "noemit",
-    "descendants": 8,
-    "id": 47295454,
-    "kids": [
-      47295716,
-      47295767,
-      47295480,
-      47295469,
-      47295696
-    ],
-    "score": 11,
-    "time": 1772956358,
-    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-    "type": "story",
-    "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
-    "image": "https://res.infoq.com/news/2026/03/agents-context-file-value-review/en/headerimage/generatedHeaderImage-1772736779089.jpg",
-    "summary": "A monthly overview of things you need to know as an architect or aspiring architect. View an example  \nWe protect your privacy.\n \n                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development\n                     Unlock the full..."
-  },
-  {
-    "by": "raldi",
-    "descendants": 3,
-    "id": 47295040,
-    "kids": [
-      47295483,
-      47295393,
-      47295658
-    ],
-    "score": 26,
-    "time": 1772950888,
-    "title": "To the Polypropylene Makers",
-    "type": "story",
-    "url": "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers",
-    "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/HQTueNS4mLaGy3BBL/q2j1vdfgv05js8zxmirg",
-    "summary": "Six years ago, as covid-19 was rapidly spreading through the US, my\nsister was working as a medical resident.  One day she was handed an\nN95 and told to \"guard it with her life\", because there weren't\nany more coming.\n\n\n \n\nN95s are made from meltblown polypropylene, produced fr..."
   }
 ]
