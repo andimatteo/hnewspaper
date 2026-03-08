@@ -1,12 +1,14 @@
 [
   {
     "by": "mpweiher",
-    "descendants": 1,
+    "descendants": 2,
     "id": 47295537,
     "kids": [
-      47295568
+      47295762,
+      47295568,
+      47295621
     ],
-    "score": 8,
+    "score": 23,
     "time": 1772957510,
     "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
     "type": "story",
@@ -16,32 +18,34 @@
   },
   {
     "by": "dkechag",
-    "descendants": 89,
+    "descendants": 99,
     "id": 47293119,
     "kids": [
       47293576,
       47294479,
       47293421,
+      47295633,
       47293726,
       47293527,
-      47295026,
       47293511,
       47293495,
+      47295026,
       47294701,
       47293567,
       47293665,
       47293770,
-      47294675,
       47293565,
+      47294675,
       47294658,
       47294519,
       47293529,
       47293496,
+      47295607,
       47293627,
       47293566,
       47293986
     ],
-    "score": 197,
+    "score": 217,
     "time": 1772930672,
     "title": "Cloud VM benchmarks 2026",
     "type": "story",
@@ -51,23 +55,23 @@
   },
   {
     "by": "networked",
-    "descendants": 42,
+    "descendants": 51,
     "id": 47293415,
     "kids": [
       47295014,
+      47295551,
       47295211,
       47294433,
-      47295551,
-      47295582,
       47294356,
       47294370,
+      47295582,
       47295226,
       47294608,
       47295072,
       47294765,
       47295296
     ],
-    "score": 146,
+    "score": 168,
     "time": 1772933721,
     "title": "\"Warn about PyPy being unmaintained\"",
     "type": "story",
@@ -76,13 +80,30 @@
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There's no official..."
   },
   {
+    "by": "big_Brain69",
+    "descendants": 0,
+    "id": 47295279,
+    "score": 13,
+    "text": "A DIY Newtonian reflector telescope with dobsonian mount. A fun to do hobby project taking us closer to the moon and beyond. A lot of plans ahead on how  to make it much better and portable but this was the first time me and my friend implemented or rather built a telescope.<p>Have a look at what all we have captured.",
+    "time": 1772954175,
+    "title": "Show HN: Curiosity \u2013 DIY 6\" Newtonian Reflector Telescope",
+    "type": "story",
+    "url": "https://curiosity-telescope.vercel.app/",
+    "image": "https://curiosity-telescope.vercel.app/Telescope/social-preview.png",
+    "summary": "Madhav on Computer M & Swarup on Computer S. \nBoth, looking at their reddit feeds and getting awed by the pictures of Moon, Jupiter, Saturn, Orion Nebulae and what not, clicked by people all around the world. Us discussing, HOW MUCH DOES A DECENT TELESCOPE COST? \nWell, it does co..."
+  },
+  {
     "by": "kqr",
-    "descendants": 1,
+    "descendants": 5,
     "id": 47245061,
     "kids": [
-      47295581
+      47295581,
+      47295771,
+      47295742,
+      47295798,
+      47295615
     ],
-    "score": 16,
+    "score": 27,
     "time": 1772616253,
     "title": "From RGB to L*a*b* color space (2024)",
     "type": "story",
@@ -115,7 +136,7 @@
       47291594,
       47292092
     ],
-    "score": 272,
+    "score": 276,
     "time": 1772916231,
     "title": "CasNum",
     "type": "story",
@@ -125,37 +146,45 @@
   },
   {
     "by": "azhenley",
-    "descendants": 30,
+    "descendants": 40,
     "id": 47293682,
     "kids": [
       47295439,
       47294357,
-      47295558,
       47294560,
+      47295698,
+      47295666,
       47295301,
       47294621,
+      47295558,
       47295086,
       47295031
     ],
-    "score": 62,
+    "score": 72,
     "time": 1772936162,
     "title": "MonoGame: A .NET framework for making cross-platform games",
     "type": "story",
     "url": "https://github.com/MonoGame/MonoGame",
-    "image": "https://opengraph.githubassets.com/21c5bf29a8b3de83610713e014eb2394e2c65f0776d13bfa1efa5462f9364ca6/MonoGame/MonoGame",
+    "image": "https://opengraph.githubassets.com/756a67ff0bc5e6b0303cf2918590dd3cbd4b089a68f7503daa9506bec82d44df/MonoGame/MonoGame",
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            There was an error while loading. Please reload this page.\n There was an error while loading. Please reload this page. \n\n One fram..."
   },
   {
     "by": "Curiositry",
-    "descendants": 24,
+    "descendants": 35,
     "id": 47292522,
     "kids": [
+      47295836,
+      47295692,
       47294937,
+      47295706,
       47294894,
+      47295449,
       47294044,
-      47295449
+      47295745,
+      47295623,
+      47295675
     ],
-    "score": 102,
+    "score": 139,
     "time": 1772926337,
     "title": "How to run Qwen 3.5 locally",
     "type": "story",
@@ -164,14 +193,30 @@
     "summary": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device! Qwen3.5 is Alibaba\u2019s new model family, including Qwen3.5-35B-A3B, 27B, 122B-A10B and 397B-A17B and the new Small series: Qwen3.5-0.8B, 2..."
   },
   {
+    "by": "thecloudlet",
+    "descendants": 1,
+    "id": 47259961,
+    "kids": [
+      47295231,
+      47295030
+    ],
+    "score": 70,
+    "time": 1772706195,
+    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+    "type": "story",
+    "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+    "image": null,
+    "summary": "In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post: Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor In..."
+  },
+  {
     "by": "zacwest",
-    "descendants": 201,
+    "descendants": 203,
     "id": 47289311,
     "kids": [
       47289874,
       47291440,
-      47295208,
       47289537,
+      47295208,
       47289545,
       47291296,
       47289918,
@@ -187,9 +232,9 @@
       47292337,
       47290765,
       47292215,
+      47290506,
       47293827,
       47293641,
-      47290506,
       47290299,
       47289758,
       47293383,
@@ -207,29 +252,13 @@
       47290109,
       47290086
     ],
-    "score": 289,
+    "score": 295,
     "time": 1772902518,
     "title": "A decade of Docker containers",
     "type": "story",
     "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
     "image": null,
     "summary": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. Y..."
-  },
-  {
-    "by": "thecloudlet",
-    "descendants": 2,
-    "id": 47259961,
-    "kids": [
-      47295231,
-      47295030
-    ],
-    "score": 61,
-    "time": 1772706195,
-    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-    "type": "story",
-    "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-    "image": null,
-    "summary": "In the first part of this GNU Emacs series, I focused on the history and explains why there is a Lisp interpreter embedded inside a text editor. Before diving into this part, I recommend reading the previous post: Emacs Internal #01: Emacs is a Lisp Runtime in C, Not an Editor In..."
   },
   {
     "by": "theblazehen",
@@ -244,7 +273,7 @@
       47293046,
       47292376
     ],
-    "score": 195,
+    "score": 200,
     "time": 1772781468,
     "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
     "type": "story",
@@ -253,20 +282,8 @@
     "summary": "I've recently been contributing to the Pybricks project, a community-run port of MicroPython to Lego Mindstorms hardware. As part of that, I obtained a used Lego NXT which just so happened to still be running the original version 1.01 firmware from when it launched in 2006. I wan..."
   },
   {
-    "by": "samclemens",
-    "descendants": 0,
-    "id": 47269058,
-    "score": 11,
-    "time": 1772756154,
-    "title": "Malcolm Cowley helped build a golden age of American letters",
-    "type": "story",
-    "url": "https://newrepublic.com/article/205583/editor-helped-build-golden-age-american-letters",
-    "image": "https://images.newrepublic.com/5b182ff00104810f112637a3dce48b8f36c06e09.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "summary": "According to American publishing mythology, there was a time when giants bestrode Midtown Manhattan. They came from Chicago, from Oregon, from Pennsylvania, from nearby New Jersey, or from the outer reaches of the city itself: Coney Island, the Bronx. Bellow, Kesey, Updike, Roth,..."
-  },
-  {
     "by": "ranit",
-    "descendants": 148,
+    "descendants": 154,
     "id": 47287344,
     "kids": [
       47293219,
@@ -274,51 +291,31 @@
       47290047,
       47288562,
       47289712,
+      47295205,
       47293419,
       47288953,
-      47295205,
       47288548,
-      47294684,
       47289422,
+      47294684,
       47295314,
       47290723,
       47289173,
       47292301,
       47288462,
-      47289074,
       47290069,
+      47289074,
       47290154,
       47291034,
       47289585,
       47288916
     ],
-    "score": 273,
+    "score": 283,
     "time": 1772889160,
     "title": "Yoghurt delivery women combatting loneliness in Japan",
     "type": "story",
     "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
     "image": "https://ychef.files.bbci.co.uk/624x351/p0n451bl.jpg",
     "summary": "As loneliness deepens in one of the world's fastest-ageing nations, a network of women delivering probiotic milk drinks has become a vital source of routine, connection and care. A woman in a neat navy suit and powder-blue shirt cycles purposefully down a quiet residential street..."
-  },
-  {
-    "by": "todsacerdoti",
-    "descendants": 34,
-    "id": 47256376,
-    "kids": [
-      47295232,
-      47294466,
-      47259148,
-      47258375,
-      47294527,
-      47294514
-    ],
-    "score": 47,
-    "time": 1772674662,
-    "title": "A Grand Vision for Rust",
-    "type": "story",
-    "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
-    "image": null,
-    "summary": "I don\u00e2\u0080\u0099t think I\u00e2\u0080\u0099ve ever quite articulated my \u00e2\u0080\u009cgrand vision\u00e2\u0080\u009d for Rust, despite\nhaving written a fair bit about the language and its features. There is a lot I\ncould say here, but currently there are three directions of development which I\nfind particularly interesting: The..."
   },
   {
     "by": "kilroy123",
@@ -333,13 +330,13 @@
       47294276,
       47293516,
       47293589,
-      47294214,
       47293541,
+      47294214,
       47293900,
       47295369,
       47294284
     ],
-    "score": 69,
+    "score": 74,
     "time": 1772634264,
     "title": "Show HN: A weird thing that detects your pulse from the browser video",
     "type": "story",
@@ -349,12 +346,13 @@
   },
   {
     "by": "simonpure",
-    "descendants": 28,
+    "descendants": 31,
     "id": 47291123,
     "kids": [
       47293276,
-      47295271,
       47293823,
+      47295642,
+      47295271,
       47293008,
       47293881,
       47292267,
@@ -362,44 +360,23 @@
       47293957,
       47292342,
       47292742,
+      47295668,
       47293035,
       47292405,
       47292994,
       47294120
     ],
-    "score": 108,
+    "score": 115,
     "time": 1772914965,
     "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
     "type": "story",
     "url": "https://github.com/karpathy/autoresearch",
-    "image": "https://opengraph.githubassets.com/291d7f9da6148cb672975a4be2d90182d88e705cda69bafa5d4841c99bc3b3f2/karpathy/autoresearch",
+    "image": "https://opengraph.githubassets.com/2e61c3c8c20f2403cae8cb56b5295c90ecdbc371c0b867bfd4536488a23b3e79/karpathy/autoresearch",
     "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n            One day, frontier AI research used to be done by meat computers in between eating, sleeping, having other fun, and synchronizing o..."
   },
   {
-    "by": "jandeboevrie",
-    "descendants": 19,
-    "id": 47274768,
-    "kids": [
-      47294829,
-      47295164,
-      47295546,
-      47294806,
-      47294445,
-      47294431,
-      47294655,
-      47294697
-    ],
-    "score": 27,
-    "time": 1772804416,
-    "title": "Best performance of a C++ singleton",
-    "type": "story",
-    "url": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
-    "image": "https://andreasfertig.com/img/2026-03-03-best-performance-of-a-singleton-li.png",
-    "summary": "In my Januray post, I focused on implementing a singleton correctly. This time I want to add performance into the mix and show you the best way to implement your singleton... or give you guidance to pick your best way. I'm using a display manager as an example, like GDM, LightDM,..."
-  },
-  {
     "by": "jprs",
-    "descendants": 30,
+    "descendants": 36,
     "id": 47290198,
     "kids": [
       47294840,
@@ -411,13 +388,53 @@
       47295359,
       47292823
     ],
-    "score": 105,
+    "score": 116,
     "time": 1772908325,
     "title": "The surprising whimsy of the Time Zone Database",
     "type": "story",
     "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
     "image": "https://muddy.jprs.me/",
     "summary": "Links + notes: tech & life Time zones are hard. As a well-known Computerphile video so eloquently puts it: What you learn after dealing with time zones, is that what you do is you put away your code, you don\u2019t try and write anything to deal with this. You look at the people who h..."
+  },
+  {
+    "by": "jandeboevrie",
+    "descendants": 23,
+    "id": 47274768,
+    "kids": [
+      47294829,
+      47295164,
+      47295677,
+      47294806,
+      47294445,
+      47294431,
+      47295546,
+      47294655,
+      47294697
+    ],
+    "score": 30,
+    "time": 1772804416,
+    "title": "Best performance of a C++ singleton",
+    "type": "story",
+    "url": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
+    "image": "https://andreasfertig.com/img/2026-03-03-best-performance-of-a-singleton-li.png",
+    "summary": "In my Januray post, I focused on implementing a singleton correctly. This time I want to add performance into the mix and show you the best way to implement your singleton... or give you guidance to pick your best way. I'm using a display manager as an example, like GDM, LightDM,..."
+  },
+  {
+    "by": "mooreds",
+    "descendants": 5,
+    "id": 47261858,
+    "kids": [
+      47295659,
+      47295520,
+      47295167
+    ],
+    "score": 27,
+    "time": 1772720746,
+    "title": "Ten years of deploying to production",
+    "type": "story",
+    "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+    "image": null,
+    "summary": "Mar 4, 2026\n      \n      \u2022 Brandon Vincent Back in 2018, where I worked there was an operations team. \u201cOps\u201d, we called them.\nIn that decade, this company was behind the curve, but not far from typical.\nWe were just starting to think about AWS. At the tail end of my time there, w..."
   },
   {
     "by": "rfarley04",
@@ -430,29 +447,13 @@
       47291530,
       47292184
     ],
-    "score": 105,
+    "score": 108,
     "time": 1772633791,
     "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
     "type": "story",
     "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
     "image": "https://assets.buttondown.email/images/d74314eb-fcaf-42b2-9927-c01dbf847780.png?w=960&fit=max",
     "summary": "This newsletter does not contain ads, sponsored posts, or affiliate links. Open and click tracking are disabled. And there is no paid upgrade or AI generated content. Enjoy! The idea of robots literally eating your precious and portable files must have been far more terrifying th..."
-  },
-  {
-    "by": "raldi",
-    "descendants": 2,
-    "id": 47295040,
-    "kids": [
-      47295483,
-      47295393
-    ],
-    "score": 19,
-    "time": 1772950888,
-    "title": "To the Polypropylene Makers",
-    "type": "story",
-    "url": "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers",
-    "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/HQTueNS4mLaGy3BBL/q2j1vdfgv05js8zxmirg",
-    "summary": "Six years ago, as covid-19 was rapidly spreading through the US, my\nsister was working as a medical resident.  One day she was handed an\nN95 and told to \"guard it with her life\", because there weren't\nany more coming.\n\n\n \n\nN95s are made from meltblown polypropylene, produced fr..."
   },
   {
     "by": "marc__1",
@@ -472,45 +473,13 @@
       47289106,
       47291299
     ],
-    "score": 206,
+    "score": 211,
     "time": 1772897616,
     "title": "FLASH radiotherapy's bold approach to cancer treatment",
     "type": "story",
     "url": "https://spectrum.ieee.org/flash-radiotherapy",
     "image": "https://spectrum.ieee.org/media-library/image.jpg?id=65111419&width=1200&height=600&coordinates=0%2C261%2C0%2C261",
     "summary": "FLASH therapy uses a precise burst of ultrahigh-power radiation to kill tumors and spare healthy tissue The French company Theryq is collaborating with the particle physics research facility CERN to develop FLASH radiation therapy. Theryq's FLASHKNiFE system targets superficial t..."
-  },
-  {
-    "by": "noemit",
-    "descendants": 2,
-    "id": 47295454,
-    "kids": [
-      47295480,
-      47295469
-    ],
-    "score": 4,
-    "time": 1772956358,
-    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-    "type": "story",
-    "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
-    "image": "https://res.infoq.com/news/2026/03/agents-context-file-value-review/en/headerimage/generatedHeaderImage-1772736779089.jpg",
-    "summary": "A monthly overview of things you need to know as an architect or aspiring architect. View an example  \nWe protect your privacy.\n \n                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development\n                     Unlock the full..."
-  },
-  {
-    "by": "mooreds",
-    "descendants": 3,
-    "id": 47261858,
-    "kids": [
-      47295520,
-      47295167
-    ],
-    "score": 19,
-    "time": 1772720746,
-    "title": "Ten years of deploying to production",
-    "type": "story",
-    "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
-    "image": null,
-    "summary": "Mar 4, 2026\n      \n      \u2022 Brandon Vincent Back in 2018, where I worked there was an operations team. \u201cOps\u201d, we called them.\nIn that decade, this company was behind the curve, but not far from typical.\nWe were just starting to think about AWS. At the tail end of my time there, w..."
   },
   {
     "by": "jstrieb",
@@ -521,7 +490,7 @@
       47292288,
       47291348
     ],
-    "score": 89,
+    "score": 93,
     "time": 1772643900,
     "title": "macOS code injection for fun and no profit (2024)",
     "type": "story",
@@ -530,20 +499,71 @@
     "summary": "2024-07-20 I love Live++ by Molecular Matters, aka Stefan Reinalter. It's an exceptionally fantastic C/C++ hot-reload/live coding solution for Windows, Xbox, and PlayStation 5. If you do any kind of C/C++ development on these platforms, you absolutely owe it to yourself to get a..."
   },
   {
-    "by": "mistivia",
-    "descendants": 7,
-    "id": 47292029,
+    "by": "surprisetalk",
+    "descendants": 1,
+    "id": 47249685,
     "kids": [
-      47295392,
-      47295280,
-      47294443
+      47249929
     ],
-    "score": 44,
-    "time": 1772922117,
-    "title": "Lisp-style C++ template meta programming",
+    "score": 3,
+    "time": 1772640983,
+    "title": "Digital Iris [video]",
     "type": "story",
-    "url": "https://github.com/mistivia/lmp",
-    "image": "https://opengraph.githubassets.com/2353f5db487002386241c860f3a841c1c8fce9631bcd23a2ca136895df7036b5/mistivia/lmp",
-    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           C++ template meta programming in a Lisp style. C++17 is needed. This is currently a demo just for proof of concept. See test.cc for..."
+    "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
+    "image": null,
+    "summary": ""
+  },
+  {
+    "by": "mleroy",
+    "descendants": 2,
+    "id": 47295708,
+    "kids": [
+      47295794,
+      47295709,
+      47295820
+    ],
+    "score": 5,
+    "time": 1772959939,
+    "title": "Llm9p: LLM as a Plan 9 file system",
+    "type": "story",
+    "url": "https://github.com/NERVsystems/llm9p",
+    "image": "https://opengraph.githubassets.com/1b67a66e970bb33099e362f2af3e51f4bf174663f675b42e7029a54c301faf07/NERVsystems/llm9p",
+    "summary": "We read every piece of feedback, and take your input very seriously. \n            To see all available qualifiers, see our documentation.\n           LLM access via the 9P filesystem protocol. llm9p enables users, scripts, and AI agents to interact with Large Language Models throu..."
+  },
+  {
+    "by": "noemit",
+    "descendants": 8,
+    "id": 47295454,
+    "kids": [
+      47295716,
+      47295767,
+      47295480,
+      47295469,
+      47295696
+    ],
+    "score": 11,
+    "time": 1772956358,
+    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
+    "type": "story",
+    "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
+    "image": "https://res.infoq.com/news/2026/03/agents-context-file-value-review/en/headerimage/generatedHeaderImage-1772736779089.jpg",
+    "summary": "A monthly overview of things you need to know as an architect or aspiring architect. View an example  \nWe protect your privacy.\n \n                        Facilitating the Spread of Knowledge and Innovation in Professional Software Development\n                     Unlock the full..."
+  },
+  {
+    "by": "raldi",
+    "descendants": 3,
+    "id": 47295040,
+    "kids": [
+      47295483,
+      47295393,
+      47295658
+    ],
+    "score": 26,
+    "time": 1772950888,
+    "title": "To the Polypropylene Makers",
+    "type": "story",
+    "url": "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers",
+    "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/HQTueNS4mLaGy3BBL/q2j1vdfgv05js8zxmirg",
+    "summary": "Six years ago, as covid-19 was rapidly spreading through the US, my\nsister was working as a medical resident.  One day she was handed an\nN95 and told to \"guard it with her life\", because there weren't\nany more coming.\n\n\n \n\nN95s are made from meltblown polypropylene, produced fr..."
   }
 ]
